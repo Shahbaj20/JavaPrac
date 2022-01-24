@@ -1,0 +1,78 @@
+Types of Programming languages
+------------------------------
+
+1.) Machine Language (Vacuum Tubes 1940-1956)-> Binary Codes 0,1
+    Decimal	Binary
+	0	000				
+	1	001
+	2	010
+	3	011
+	4	100
+	5	101
+	6	110
+	7	111
+	8	1000
+
+2.) Assembly Language (Transistors 1956-1963)-> Mnemonic codes-instructions in words
+	
+	2 ADD 2
+	2 SUM 2
+
+3.) High Level Language->Used operators +, -, /, *
+
+	Used to create Application Softwares
+
+	Advantages:1) Used operators
+		   2) No need to learn/ No alternate available
+
+	Ex: COBOL, FORTRAN, PASCAL
+	
+	Disadvantages:
+	1) Task Specific
+	2) Readymade features were available but user defined features were not there
+	3) Bit Level Programming was not possible
+
+
+
+Types of Softwares
+------------------
+1) System Software-> Makes hardware work. Machine Dependent.
+	-OS(OPERATING SYSTEM: it manages the hardware and software resources of the computer))
+	-Driver Software
+	
+
+2) Application Software-> Used to perform some particular type of task. Nothing to do with the hardware.
+	- Media Player
+	- Tally
+	- Gaming application
+	- MS Ofice
+
+
+Low Level Language
+-------------------
+Used to create System Softwares.
+Bit Level Programming, Low Level Programming or System Programming.
+(Embedded Coding)
+C language->99% Systems Software
+
+C is also called Middle Level language.
+
+Shortcomings with C
+------------------
+-data security 
+-Poor Error Handling
+-Memory Leakage
+
+
+Object: A real world entity. Every Object has properties(variables) and Behaviour(functions).
+-------
+
+Features(Advantages) Of Java:
+-------------------
+1.) WORA(Write Once Run Anywhere)/ Platform Independence: Java's compiler is platform independent. So, Java is called as a Platform Independent language. But JVM/JRE is platform dependent.
+2.) Security: -Byte Code verifier inside JVM
+	      -Java provides a pointerless environment
+3.)Robust: Strictly typed, predictability(of the output), Handle errors(through Exception Handling), Memory Leakage is handled through Automatic Garbage Collection.	
+4.) Multithreading: Through a single program we can run multiple peograms.
+5.) Architecture-Neutral: write once, run anywhere, anytime, forever.
+
